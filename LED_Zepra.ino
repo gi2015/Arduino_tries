@@ -13,8 +13,8 @@
 CRGB leds[NUM_LEDS];
 
 char auth[] = "d5053a353c924f3895f168db5037f118";
-char ssid[] = "GrandCanalWifi";
-char pass[] = "grandcanal89";
+char ssid[] = "";
+char pass[] = "";
 
 void setup()
 {
